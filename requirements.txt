@@ -109,7 +109,7 @@ netron==7.7.2
 networkx==2.6.3
 nltk==3.8.1
 notebook==6.4.12
-numpy==1.21.3
+numpy==1.26.3
 nvidia-ml-py==12.535.133
 oauthlib==3.2.2
 opencv-python==4.6.0.66
