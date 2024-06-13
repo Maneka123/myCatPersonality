@@ -154,8 +154,8 @@ python-engineio==4.9.0
 python-socketio==5.11.0
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
-pywavelets>=1.1.1
-pywin32==304
+pywavelets>=1.1.1,<1.21.2
+pywin32==304; sys_platform == 'win32'pywin32==304
 pywinpty==2.0.5
 PyYAML==6.0.1
 pyzmq==23.2.0
