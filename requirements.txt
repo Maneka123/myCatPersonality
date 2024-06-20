@@ -6,6 +6,7 @@ flask-cors
 flask-bcrypt==0.7.1
 pymongo==4.0.1
 pandas==1.4.2
+numpy==1.21.0
 scikit-learn==0.24.2
 googlemaps==4.5.3
 geopy==2.3.1
