@@ -1,4 +1,4 @@
-# requirements.txt for TrustyPet Flask application
+5# requirements.txt for TrustyPet Flask application
 
 flask==2.0.1
 flask-socketio==5.1.1
@@ -6,7 +6,7 @@ flask-cors
 flask-bcrypt==0.7.1
 pymongo==4.0.1
 pandas==1.4.2
-setuptools==64.1.0
+setuptools==65.2.0
 six==1.16.0
 
 numpy==1.21.0
